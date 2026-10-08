@@ -1,0 +1,614 @@
+[
+  {
+    "route": "gallery/amtsgericht.html",
+    "key": "amtsgericht",
+    "title": "Amtsgericht Dinkelsbühl",
+    "source": "https://www.weha-gmbh.de/gallery/amtsgericht.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/amtsgericht/1.jpg",
+        "asset": "projects/amtsgericht-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/amtsgericht/2.jpg",
+        "asset": "projects/amtsgericht-02.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/amtsgericht/3.jpg",
+        "asset": "projects/amtsgericht-03.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/amtsgericht/4.jpg",
+        "asset": "projects/amtsgericht-04.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/amtsgericht/5.jpg",
+        "asset": "projects/amtsgericht-05.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/amtsgericht/6.jpg",
+        "asset": "projects/amtsgericht-06.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/amtsgericht/7.jpg",
+        "asset": "projects/amtsgericht-07.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/amtsgericht/8.jpg",
+        "asset": "projects/amtsgericht-08.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/amtsgericht/9.jpg",
+        "asset": "projects/amtsgericht-09.webp"
+      }
+    ]
+  },
+  {
+    "route": "gallery/bad_windsheim.html",
+    "key": "bad_windsheim",
+    "title": "Bad Windsheim",
+    "source": "https://www.weha-gmbh.de/gallery/bad_windsheim.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/bad_windsheim/1.jpg",
+        "asset": "projects/bad_windsheim-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/bad_windsheim/2.jpg",
+        "asset": "projects/bad_windsheim-02.webp"
+      }
+    ]
+  },
+  {
+    "route": "gallery/woernitzstrasse.html",
+    "key": "woernitzstrasse",
+    "title": "Wörnitzstraße",
+    "source": "https://www.weha-gmbh.de/gallery/woernitzstrasse.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/woernitzstrasse/1.jpg",
+        "asset": "projects/woernitzstrasse-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/woernitzstrasse/2.jpg",
+        "asset": "projects/woernitzstrasse-02.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/woernitzstrasse/3.jpg",
+        "asset": "projects/woernitzstrasse-03.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/woernitzstrasse/4.jpg",
+        "asset": "projects/woernitzstrasse-04.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/woernitzstrasse/5.jpg",
+        "asset": "projects/woernitzstrasse-05.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/woernitzstrasse/6.jpg",
+        "asset": "projects/woernitzstrasse-06.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/woernitzstrasse/7.jpg",
+        "asset": "projects/woernitzstrasse-07.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/woernitzstrasse/8.jpg",
+        "asset": "projects/woernitzstrasse-08.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/woernitzstrasse/9.jpg",
+        "asset": "projects/woernitzstrasse-09.webp"
+      }
+    ]
+  },
+  {
+    "route": "gallery/erlangen.html",
+    "key": "erlangen",
+    "title": "Erlangen",
+    "source": "https://www.weha-gmbh.de/gallery/erlangen.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/erlangen/1.jpg",
+        "asset": "projects/erlangen-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/erlangen/2.jpg",
+        "asset": "projects/erlangen-02.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/erlangen/3.jpg",
+        "asset": "projects/erlangen-03.webp"
+      }
+    ]
+  },
+  {
+    "route": "gallery/illenschwang.html",
+    "key": "illenschwang",
+    "title": "Illenschwang",
+    "source": "https://www.weha-gmbh.de/gallery/illenschwang.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/illenschwang/1.jpg",
+        "asset": "projects/illenschwang-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/woernitzstrasse/2.jpg",
+        "asset": "projects/illenschwang-02.webp"
+      }
+    ]
+  },
+  {
+    "route": "gallery/destouchestrasse.html",
+    "key": "destouchestrasse",
+    "title": "München · Destouchestraße",
+    "source": "https://www.weha-gmbh.de/gallery/destouchestrasse.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/destouchestrasse/1.jpg",
+        "asset": "projects/destouchestrasse-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/destouchestrasse/2.jpg",
+        "asset": "projects/destouchestrasse-02.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/destouchestrasse/3.jpg",
+        "asset": "projects/destouchestrasse-03.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/destouchestrasse/4.jpg",
+        "asset": "projects/destouchestrasse-04.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/destouchestrasse/5.jpg",
+        "asset": "projects/destouchestrasse-05.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/destouchestrasse/6.jpg",
+        "asset": "projects/destouchestrasse-06.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/destouchestrasse/7.jpg",
+        "asset": "projects/destouchestrasse-07.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/destouchestrasse/8.jpg",
+        "asset": "projects/destouchestrasse-08.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/destouchestrasse/9.jpg",
+        "asset": "projects/destouchestrasse-09.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/destouchestrasse/10.jpg",
+        "asset": "projects/destouchestrasse-10.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/destouchestrasse/11.jpg",
+        "asset": "projects/destouchestrasse-11.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/destouchestrasse/12.jpg",
+        "asset": "projects/destouchestrasse-12.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/destouchestrasse/13.jpg",
+        "asset": "projects/destouchestrasse-13.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/destouchestrasse/14.jpg",
+        "asset": "projects/destouchestrasse-14.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/destouchestrasse/15.jpg",
+        "asset": "projects/destouchestrasse-15.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/destouchestrasse/16.jpg",
+        "asset": "projects/destouchestrasse-16.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/destouchestrasse/17.jpg",
+        "asset": "projects/destouchestrasse-17.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/destouchestrasse/18.jpg",
+        "asset": "projects/destouchestrasse-18.webp"
+      }
+    ]
+  },
+  {
+    "route": "gallery/fafnerstrasse.html",
+    "key": "fafnerstrasse",
+    "title": "München · Fafnerstraße",
+    "source": "https://www.weha-gmbh.de/gallery/fafnerstrasse.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/fafnerstrasse/1.jpg",
+        "asset": "projects/fafnerstrasse-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/fafnerstrasse/2.jpg",
+        "asset": "projects/fafnerstrasse-02.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/fafnerstrasse/3.jpg",
+        "asset": "projects/fafnerstrasse-03.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/fafnerstrasse/4.jpg",
+        "asset": "projects/fafnerstrasse-04.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/fafnerstrasse/5.jpg",
+        "asset": "projects/fafnerstrasse-05.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/fafnerstrasse/6.jpg",
+        "asset": "projects/fafnerstrasse-06.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/fafnerstrasse/7.jpg",
+        "asset": "projects/fafnerstrasse-07.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/fafnerstrasse/8.jpg",
+        "asset": "projects/fafnerstrasse-08.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/fafnerstrasse/9.jpg",
+        "asset": "projects/fafnerstrasse-09.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/fafnerstrasse/10.jpg",
+        "asset": "projects/fafnerstrasse-10.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/fafnerstrasse/11.jpg",
+        "asset": "projects/fafnerstrasse-11.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/fafnerstrasse/12.jpg",
+        "asset": "projects/fafnerstrasse-12.webp"
+      }
+    ]
+  },
+  {
+    "route": "gallery/glockenbach.html",
+    "key": "glockenbach",
+    "title": "München · Glockenbach",
+    "source": "https://www.weha-gmbh.de/gallery/glockenbach.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/glockenbach/1.jpg",
+        "asset": "projects/glockenbach-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/glockenbach/2.jpg",
+        "asset": "projects/glockenbach-02.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/glockenbach/3.jpg",
+        "asset": "projects/glockenbach-03.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/glockenbach/4.jpg",
+        "asset": "projects/glockenbach-04.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/glockenbach/5.jpg",
+        "asset": "projects/glockenbach-05.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/glockenbach/6.jpg",
+        "asset": "projects/glockenbach-06.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/glockenbach/7.jpg",
+        "asset": "projects/glockenbach-07.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/glockenbach/8.jpg",
+        "asset": "projects/glockenbach-08.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/glockenbach/9.jpg",
+        "asset": "projects/glockenbach-09.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/glockenbach/10.jpg",
+        "asset": "projects/glockenbach-10.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/glockenbach/11.jpg",
+        "asset": "projects/glockenbach-11.webp"
+      }
+    ]
+  },
+  {
+    "route": "gallery/zirkelschmiedgasse.html",
+    "key": "zirkelschmiedgasse",
+    "title": "Nürnberg · Zirkelschmiedgasse",
+    "source": "https://www.weha-gmbh.de/gallery/zirkelschmiedgasse.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/zirkelschmiedgasse/1.jpg",
+        "asset": "projects/zirkelschmiedgasse-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/zirkelschmiedgasse/2.jpg",
+        "asset": "projects/zirkelschmiedgasse-02.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/zirkelschmiedgasse/3.jpg",
+        "asset": "projects/zirkelschmiedgasse-03.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/zirkelschmiedgasse/4.jpg",
+        "asset": "projects/zirkelschmiedgasse-04.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/zirkelschmiedgasse/5.jpg",
+        "asset": "projects/zirkelschmiedgasse-05.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/zirkelschmiedgasse/6.jpg",
+        "asset": "projects/zirkelschmiedgasse-06.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/zirkelschmiedgasse/7.jpg",
+        "asset": "projects/zirkelschmiedgasse-07.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/zirkelschmiedgasse/8.jpg",
+        "asset": "projects/zirkelschmiedgasse-08.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/zirkelschmiedgasse/9.jpg",
+        "asset": "projects/zirkelschmiedgasse-09.webp"
+      }
+    ]
+  },
+  {
+    "route": "gallery/donauwoerth.html",
+    "key": "donauwoerth",
+    "title": "Donauwörth",
+    "source": "https://www.weha-gmbh.de/gallery/donauwoerth.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/donauwoerth/2.jpg",
+        "asset": "projects/donauwoerth-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/donauwoerth/1.jpg",
+        "asset": "projects/donauwoerth-02.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/donauwoerth/3.jpg",
+        "asset": "projects/donauwoerth-03.webp"
+      }
+    ]
+  },
+  {
+    "route": "gallery/duerrenstetten.html",
+    "key": "duerrenstetten",
+    "title": "Dürrenstetten",
+    "source": "https://www.weha-gmbh.de/gallery/duerrenstetten.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/duerrenstetten/1.jpg",
+        "asset": "projects/duerrenstetten-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/duerrenstetten/2.jpg",
+        "asset": "projects/duerrenstetten-02.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/duerrenstetten/3.jpg",
+        "asset": "projects/duerrenstetten-03.webp"
+      }
+    ]
+  },
+  {
+    "route": "gallery/geislingen.html",
+    "key": "geislingen",
+    "title": "Geislingen an der Steige",
+    "source": "https://www.weha-gmbh.de/gallery/geislingen.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/geislingen/1.jpg",
+        "asset": "projects/geislingen-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/geislingen/2.jpg",
+        "asset": "projects/geislingen-02.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/geislingen/3.jpg",
+        "asset": "projects/geislingen-03.webp"
+      }
+    ]
+  },
+  {
+    "route": "gallery/dinkelsbuehl.html",
+    "key": "dinkelsbuehl",
+    "title": "Dinkelsbühl",
+    "source": "https://www.weha-gmbh.de/gallery/dinkelsbuehl.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/dinkelsbuehl/1.jpg",
+        "asset": "projects/dinkelsbuehl-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/dinkelsbuehl/2.jpg",
+        "asset": "projects/dinkelsbuehl-02.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/dinkelsbuehl/3.jpg",
+        "asset": "projects/dinkelsbuehl-03.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/dinkelsbuehl/4.jpg",
+        "asset": "projects/dinkelsbuehl-04.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/dinkelsbuehl/5.jpg",
+        "asset": "projects/dinkelsbuehl-05.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/dinkelsbuehl/6.jpg",
+        "asset": "projects/dinkelsbuehl-06.webp"
+      }
+    ]
+  },
+  {
+    "route": "gallery/zirndorf.html",
+    "key": "zirndorf",
+    "title": "Zirndorf",
+    "source": "https://www.weha-gmbh.de/gallery/zirndorf.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/zirndorf/1.jpg",
+        "asset": "projects/zirndorf-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/zirndorf/2.jpg",
+        "asset": "projects/zirndorf-02.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/zirndorf/3.jpg",
+        "asset": "projects/zirndorf-03.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/zirndorf/4.jpg",
+        "asset": "projects/zirndorf-04.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/zirndorf/5.jpg",
+        "asset": "projects/zirndorf-05.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/zirndorf/6.jpg",
+        "asset": "projects/zirndorf-06.webp"
+      }
+    ]
+  },
+  {
+    "route": "gallery/solln.html",
+    "key": "solln",
+    "title": "München · Solln",
+    "source": "https://www.weha-gmbh.de/gallery/solln.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/solln/1.jpg",
+        "asset": "projects/solln-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/solln/2.jpg",
+        "asset": "projects/solln-02.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/solln/3.jpg",
+        "asset": "projects/solln-03.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/solln/4.jpg",
+        "asset": "projects/solln-04.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/solln/5.jpg",
+        "asset": "projects/solln-05.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/solln/6.jpg",
+        "asset": "projects/solln-06.webp"
+      }
+    ]
+  },
+  {
+    "route": "gallery/ansbach.html",
+    "key": "ansbach",
+    "title": "Ansbach",
+    "source": "https://www.weha-gmbh.de/gallery/ansbach.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/ansbach/1.jpg",
+        "asset": "projects/ansbach-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/ansbach/2.jpg",
+        "asset": "projects/ansbach-02.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/ansbach/3.jpg",
+        "asset": "projects/ansbach-03.webp"
+      }
+    ]
+  },
+  {
+    "route": "gallery/muenchenschwabing.html",
+    "key": "muenchenschwabing",
+    "title": "München · Schwabing",
+    "source": "https://www.weha-gmbh.de/gallery/muenchenschwabing.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/muenchen-schwabing/2.jpg",
+        "asset": "projects/muenchenschwabing-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/muenchen-schwabing/1.jpg",
+        "asset": "projects/muenchenschwabing-02.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/muenchen-schwabing/3.jpg",
+        "asset": "projects/muenchenschwabing-03.webp"
+      }
+    ]
+  },
+  {
+    "route": "gallery/unterhessbach.html",
+    "key": "unterhessbach",
+    "title": "Unterhessbach · Ansbach",
+    "source": "https://www.weha-gmbh.de/gallery/unterhessbach.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/unterhessbach/1.jpg",
+        "asset": "projects/unterhessbach-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/unterhessbach/2.jpg",
+        "asset": "projects/unterhessbach-02.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/unterhessbach/3.jpg",
+        "asset": "projects/unterhessbach-03.webp"
+      }
+    ]
+  },
+  {
+    "route": "gallery/muenchenstrasslach.html",
+    "key": "muenchenstrasslach",
+    "title": "München · Straßlach",
+    "source": "https://www.weha-gmbh.de/gallery/muenchenstrasslach.html",
+    "images": [
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/muenchen-strasslach/1.jpg",
+        "asset": "projects/muenchenstrasslach-01.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/muenchen-strasslach/2.jpg",
+        "asset": "projects/muenchenstrasslach-02.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/muenchen-strasslach/3.jpg",
+        "asset": "projects/muenchenstrasslach-03.webp"
+      },
+      {
+        "url": "https://www.weha-gmbh.de/images/gallery/muenchen-strasslach/4.jpg",
+        "asset": "projects/muenchenstrasslach-04.webp"
+      }
+    ]
+  }
+]
